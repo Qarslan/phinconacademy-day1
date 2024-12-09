@@ -1,1 +1,4 @@
-# Project pertama
+# PhinconAcademy
+## Materi;
+- Git
+- Markdown
